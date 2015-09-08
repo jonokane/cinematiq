@@ -61,8 +61,8 @@
 </div>
 <!--/.sg-body-->
 <script src="http://code.jquery.com/jquery-1.11.0.min.js"></script>
-<script src="js/scrollspy.js"></script>
-<script src="js/dropdown.js"></script>
+<script src="../bower_components/bootstrap/js/scrollspy.js"></script>
+<script src="../bower_components/bootstrap/js/dropdown.js"></script>
 <script src="js/sg-plugins.js"></script>
 <script src="js/sg-scripts.js"></script>
 </body>
