@@ -6764,8 +6764,42 @@ button.close {
     display: none !important;
   }
 }
-body {
-  background: red;
-  color: purple;
+.row > .page-header {
+  padding-top: 2em;
+}
+.well {
+  color: #666;
+}
+.nav-pills > li > a > .badge {
+  padding-bottom: 5px;
+}
+.btn .badge {
+  padding-bottom: 5px;
+}
+.table-striped > tbody > tr:nth-of-type(odd) {
+  background-color: #3D4354;
+}
+.table-bordered > thead > tr > th,
+.table-bordered > tbody > tr > th,
+.table-bordered > tfoot > tr > th,
+.table-bordered > thead > tr > td,
+.table-bordered > tbody > tr > td,
+.table-bordered > tfoot > tr > td {
+  border: 1px solid #534F75;
+}
+.table,
+table {
+  border-color: #534F75;
+}
+.table > thead > tr > th,
+.table > tbody > tr > th,
+.table > tfoot > tr > th,
+.table > thead > tr > td,
+.table > tbody > tr > td,
+.table > tfoot > tr > td {
+  border-top: 1px solid #534F75;
+}
+.table > thead > tr > th {
+  border-bottom: 2px solid #534F75;
 }
 /*# sourceMappingURL=bootstrap.css.map */
