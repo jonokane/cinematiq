@@ -6896,4 +6896,10 @@ table {
 .table-hover > tbody > tr:hover {
   background-color: #35436B;
 }
+a.navbar-brand {
+  font-weight: 700;
+}
+a.navbar-brand.sub-brand {
+  font-weight: 300;
+}
 /*# sourceMappingURL=bootstrap.css.map */
