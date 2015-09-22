@@ -6792,6 +6792,9 @@ button.close {
 .well {
   color: #666;
 }
+body {
+  padding-top: 80px;
+}
 .nav-pills > li > a > .badge {
   padding-bottom: 5px;
 }
