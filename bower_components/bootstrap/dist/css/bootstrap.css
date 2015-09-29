@@ -6823,11 +6823,11 @@ pre {
 .table-bordered > thead > tr > td,
 .table-bordered > tbody > tr > td,
 .table-bordered > tfoot > tr > td {
-  border: 1px solid #534F75;
+  border: 1px solid #313a54;
 }
 .table,
 table {
-  border-color: #534F75;
+  border-color: #313a54;
 }
 .table > thead > tr > th,
 .table > tbody > tr > th,
@@ -6835,10 +6835,10 @@ table {
 .table > thead > tr > td,
 .table > tbody > tr > td,
 .table > tfoot > tr > td {
-  border-top: 1px solid #534F75;
+  border-top: 1px solid #313a54;
 }
 .table > thead > tr > th {
-  border-bottom: 2px solid #534F75;
+  border-bottom: 2px solid #313a54;
 }
 .table > thead > tr > td.success,
 .table > tbody > tr > td.success,
@@ -6908,7 +6908,20 @@ a.navbar-brand.sub-brand {
 .nav > li > a {
   border-bottom: 1px solid #2F2F2F;
 }
-li span.ss-icon {
+.nav > li > a.dropdown-toggle {
+  border-bottom: none;
+}
+.tbl-thumb {
+  width: 60px;
+}
+.ico-m {
+  font-size: 20px;
+}
+.inner-ico-link {
+  position: relative;
+  top: -4px;
+}
+span.ss-icon.label-ico {
   margin-right: 8px;
   font-size: 20px;
   position: relative;
