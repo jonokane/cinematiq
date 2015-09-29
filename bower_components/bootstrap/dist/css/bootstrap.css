@@ -6905,4 +6905,13 @@ a.navbar-brand {
 a.navbar-brand.sub-brand {
   font-weight: 300;
 }
+.nav > li > a {
+  border-bottom: 1px solid #2F2F2F;
+}
+li span.ss-icon {
+  margin-right: 8px;
+  font-size: 20px;
+  position: relative;
+  top: 4px;
+}
 /*# sourceMappingURL=bootstrap.css.map */
