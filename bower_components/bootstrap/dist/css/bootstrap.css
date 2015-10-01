@@ -6814,6 +6814,12 @@ pre {
   border: 1px solid #909090;
   border-radius: 4px;
 }
+a:hover {
+  color: #00ffbe;
+}
+a:hover {
+  text-decoration: none !important;
+}
 .table-striped > tbody > tr:nth-of-type(odd) {
   background-color: #3D4354;
 }
@@ -6910,6 +6916,25 @@ a.navbar-brand.sub-brand {
 }
 .nav > li > a.dropdown-toggle {
   border-bottom: none;
+}
+.nav li a:hover {
+  color: #020717;
+}
+li.active a {
+  color: #00ffbe;
+  font-weight: 700;
+}
+.cta-btn {
+  border: 1px solid #35436B;
+  border-radius: 4px;
+  padding: 8px;
+  background: rgba(20, 20, 20, 0.7);
+}
+.empty-msg {
+  color: #8A8D94;
+}
+.empty-msg .ss-icon {
+  font-size: 80px;
 }
 .tbl-thumb {
   width: 60px;
