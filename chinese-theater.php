@@ -54,8 +54,8 @@
         </div>
         <div class="col-md-10">
           <div class="row">
-            <div class="col-md-2">
-              <img src="img/chinese-theater.png" alt="" class="img-responsive">
+            <div class="col-md-3 text-left">
+              <img src="img/chinese-theater.png" alt="" class="img-responsive img-venue">
             </div>
             <div class="col-md-4">
               <h2 class="nmt">Chinese Theater</h2>
@@ -63,7 +63,7 @@
               <h4>Oakland, CA 94104</h4>
               <h5>(555)555-5555</h5>
             </div>
-            <div class="col-md-6 venue-info">
+            <div class="col-md-5 venue-info">
             <dl>
               <dt>Seating:</dt>
               <dd>3,000</dd>
