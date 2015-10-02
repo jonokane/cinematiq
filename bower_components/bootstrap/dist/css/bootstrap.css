@@ -6986,6 +6986,23 @@ li.active a {
   float: left;
   width: 50%;
 }
+.disclosure-btn {
+  display: block;
+  text-align: center;
+  -moz-transition: 0.5s ease-in-out;
+  -webkit-transition: 0.5s ease-in-out;
+  transition: 0.5s ease-in-out;
+}
+.rotated {
+  -webkit-transform: rotate(90deg);
+  -moz-transform: rotate(90deg);
+  -o-transform: rotate(90deg);
+  -ms-transform: rotate(90deg);
+  transform: rotate(90deg);
+}
+.disclosure-btn:hover {
+  cursor: pointer;
+}
 .tbl-thumb {
   width: 60px;
 }

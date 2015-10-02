@@ -72,7 +72,7 @@
             </thead>
             <tbody>
                 <tr>
-                    <td><span class="ss-icon ss-standard">directright</span></td>
+                    <td><span href="" class="disclosure-btn"><span class="ss-icon ss-standard">directright</span</span></td>
                     <td><img src="img/thumb1.jpg" alt="" class="tbl-thumb"></td>
                     <td>A matter of Honor </td>
                     <td>00:19:00</td>
@@ -83,8 +83,9 @@
                     <td><span class="ss-icon ico-m">check</span></td>
                     <td><a href="mailto:mopac55@hotmail.com" class="inner-ico-link"><span class="ss-icon label-ico">mail</span>David Bogard</a></td>
                 </tr>
-                <tr>
-                    <td><span class="ss-icon ss-standard">directright</span></td>
+                <tr class="more-info">
+                  <td colspan="10">hey</td>
+                    <!-- <td><a href="" class="disclosure"><span class="ss-icon ss-standard">directright</span></a></td>
                     <td><img src="img/thumb1.jpg" alt="" class="tbl-thumb"></td>
                     <td>A matter of Honor </td>
                     <td>00:19:00</td>
@@ -93,103 +94,7 @@
                     <td>Stereo</td>
                     <td>PASS</td>
                     <td><span class="ss-icon ico-m">check</span></td>
-                    <td><a href="mailto:mopac55@hotmail.com" class="inner-ico-link"><span class="ss-icon label-ico">mail</span>David Bogard</a></td>
-                </tr>
-                <tr>
-                    <td><span class="ss-icon ss-standard">directright</span></td>
-                    <td><img src="img/thumb1.jpg" alt="" class="tbl-thumb"></td>
-                    <td>A matter of Honor </td>
-                    <td>00:19:00</td>
-                    <td>?</td>
-                    <td>23.98</td>
-                    <td>Stereo</td>
-                    <td>PASS</td>
-                    <td><span class="ss-icon ico-m">check</span></td>
-                    <td><a href="mailto:mopac55@hotmail.com" class="inner-ico-link"><span class="ss-icon label-ico">mail</span>David Bogard</a></td>
-                </tr>
-                <tr>
-                    <td><span class="ss-icon ss-standard">directright</span></td>
-                    <td><img src="img/thumb1.jpg" alt="" class="tbl-thumb"></td>
-                    <td>A matter of Honor </td>
-                    <td>00:19:00</td>
-                    <td>?</td>
-                    <td>23.98</td>
-                    <td>Stereo</td>
-                    <td>PASS</td>
-                    <td><span class="ss-icon ico-m">check</span></td>
-                    <td><a href="mailto:mopac55@hotmail.com" class="inner-ico-link"><span class="ss-icon label-ico">mail</span>David Bogard</a></td>
-                </tr>
-                <tr>
-                    <td><span class="ss-icon ss-standard">directright</span></td>
-                    <td><img src="img/thumb1.jpg" alt="" class="tbl-thumb"></td>
-                    <td>A matter of Honor </td>
-                    <td>00:19:00</td>
-                    <td>?</td>
-                    <td>23.98</td>
-                    <td>Stereo</td>
-                    <td>PASS</td>
-                    <td><span class="ss-icon ico-m">check</span></td>
-                    <td><a href="mailto:mopac55@hotmail.com" class="inner-ico-link"><span class="ss-icon label-ico">mail</span>David Bogard</a></td>
-                </tr>
-                <tr>
-                    <td><span class="ss-icon ss-standard">directright</span></td>
-                    <td><img src="img/thumb1.jpg" alt="" class="tbl-thumb"></td>
-                    <td>A matter of Honor </td>
-                    <td>00:19:00</td>
-                    <td>?</td>
-                    <td>23.98</td>
-                    <td>Stereo</td>
-                    <td>PASS</td>
-                    <td><span class="ss-icon ico-m">check</span></td>
-                    <td><a href="mailto:mopac55@hotmail.com" class="inner-ico-link"><span class="ss-icon label-ico">mail</span>David Bogard</a></td>
-                </tr>
-                <tr>
-                    <td><span class="ss-icon ss-standard">directright</span></td>
-                    <td><img src="img/thumb1.jpg" alt="" class="tbl-thumb"></td>
-                    <td>A matter of Honor </td>
-                    <td>00:19:00</td>
-                    <td>?</td>
-                    <td>23.98</td>
-                    <td>Stereo</td>
-                    <td>PASS</td>
-                    <td><span class="ss-icon ico-m">check</span></td>
-                    <td><a href="mailto:mopac55@hotmail.com" class="inner-ico-link"><span class="ss-icon label-ico">mail</span>David Bogard</a></td>
-                </tr>
-                <tr>
-                    <td><span class="ss-icon ss-standard">directright</span></td>
-                    <td><img src="img/thumb1.jpg" alt="" class="tbl-thumb"></td>
-                    <td>A matter of Honor </td>
-                    <td>00:19:00</td>
-                    <td>?</td>
-                    <td>23.98</td>
-                    <td>Stereo</td>
-                    <td>PASS</td>
-                    <td><span class="ss-icon ico-m">check</span></td>
-                    <td><a href="mailto:mopac55@hotmail.com" class="inner-ico-link"><span class="ss-icon label-ico">mail</span>David Bogard</a></td>
-                </tr>
-                <tr>
-                    <td><span class="ss-icon ss-standard">directright</span></td>
-                    <td><img src="img/thumb1.jpg" alt="" class="tbl-thumb"></td>
-                    <td>A matter of Honor </td>
-                    <td>00:19:00</td>
-                    <td>?</td>
-                    <td>23.98</td>
-                    <td>Stereo</td>
-                    <td>PASS</td>
-                    <td><span class="ss-icon ico-m">check</span></td>
-                    <td><a href="mailto:mopac55@hotmail.com" class="inner-ico-link"><span class="ss-icon label-ico">mail</span>David Bogard</a></td>
-                </tr>
-                <tr>
-                    <td><span class="ss-icon ss-standard">directright</span></td>
-                    <td><img src="img/thumb1.jpg" alt="" class="tbl-thumb"></td>
-                    <td>A matter of Honor </td>
-                    <td>00:19:00</td>
-                    <td>?</td>
-                    <td>23.98</td>
-                    <td>Stereo</td>
-                    <td>PASS</td>
-                    <td><span class="ss-icon ico-m">check</span></td>
-                    <td><a href="mailto:mopac55@hotmail.com" class="inner-ico-link"><span class="ss-icon label-ico">mail</span>David Bogard</a></td>
+                    <td><a href="mailto:mopac55@hotmail.com" class="inner-ico-link"><span class="ss-icon label-ico">mail</span>David Bogard</a></td> -->
                 </tr>
             </tbody>
             <tfoot>
@@ -232,6 +137,53 @@
 
 
     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
-    <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+    <!--<script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>-->
+
+
+<script>
+
+$( document ).ready(function() {
+  $('.more-info').toggle();
+
+//   $('.disclosure').on('click', function (e) {
+//     e.preventDefault();
+//     var elem = $(this).closest('tr').next('tr')
+//     elem.toggle('slow');
+// });
+// 
+
+$('.disclosure-btn').click(function(e){
+    e.preventDefault();
+    $(this).toggleClass('rotated');
+    var elem = $(this).closest('tr').next('tr')
+    elem.toggle('slow');
+});
+
+
+  // $('.disclosure-btn').click(function(){
+  //       var elem = $('.more-info'),
+  //           arrow = $('.disclosure-arrow')
+
+  //       if (!elem.is(':visible'))  {
+  //           arrow.rotate({animateTo:180});
+  //       } else {
+  //           arrow.rotate({animateTo:360});
+  //       }
+  //       elem.fadeToggle('slow', function() {
+  //       });
+
+  //   return false;
+  //  });
+
+
+});
+  
+</script>
+
+
+
+
+
+
   </body>
 </html>
