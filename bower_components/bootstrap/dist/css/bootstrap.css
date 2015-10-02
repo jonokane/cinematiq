@@ -6986,12 +6986,24 @@ li.active a {
   float: left;
   width: 50%;
 }
+.more-info {
+  font-size: 80%;
+}
+.more-info dt {
+  float: left;
+  text-align: left;
+  margin-right: 10px;
+}
+.more-info dd {
+  float: left;
+  text-align: left;
+}
 .disclosure-btn {
   display: block;
   text-align: center;
-  -moz-transition: 0.5s ease-in-out;
-  -webkit-transition: 0.5s ease-in-out;
-  transition: 0.5s ease-in-out;
+  -moz-transition: 0.3s ease-in-out;
+  -webkit-transition: 0.3s ease-in-out;
+  transition: 0.3s ease-in-out;
 }
 .rotated {
   -webkit-transform: rotate(90deg);

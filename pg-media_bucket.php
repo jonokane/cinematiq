@@ -66,7 +66,8 @@
                     <th>Frame Rate</th>
                     <th>Audio Format</th>
                     <th>QC Status</th>
-                    <th>Asset Added</th>
+                    <th>Added</th>
+                    <th>Type</th>
                     <th>Contact</th>
                 </tr>
             </thead>
@@ -81,24 +82,54 @@
                     <td>Stereo</td>
                     <td>PASS</td>
                     <td><span class="ss-icon ico-m">check</span></td>
+                    <td>QT</td>
                     <td><a href="mailto:mopac55@hotmail.com" class="inner-ico-link"><span class="ss-icon label-ico">mail</span>David Bogard</a></td>
                 </tr>
                 <tr class="more-info">
-                  <td colspan="10">hey</td>
-                    <!-- <td><a href="" class="disclosure"><span class="ss-icon ss-standard">directright</span></a></td>
-                    <td><img src="img/thumb1.jpg" alt="" class="tbl-thumb"></td>
-                    <td>A matter of Honor </td>
-                    <td>00:19:00</td>
-                    <td>?</td>
-                    <td>23.98</td>
-                    <td>Stereo</td>
-                    <td>PASS</td>
-                    <td><span class="ss-icon ico-m">check</span></td>
-                    <td><a href="mailto:mopac55@hotmail.com" class="inner-ico-link"><span class="ss-icon label-ico">mail</span>David Bogard</a></td> -->
+                    <td colspan="11">
+                        <dl>
+                            <dt>Codec:</dt>
+                            <dd>Apple ProRes</dd>
+                        </dl>
+                        <dl>
+                            <dt>Aspect Ratio:</dt>
+                            <dd>16:9</dd>
+                        </dl>
+                        <dl>
+                            <dt>Content Type:</dt>
+                            <dd>Doc</dd>
+                        </dl>
+                        <dl>
+                            <dt>Tags:</dt>
+                            <dd>documentary, profiles, cannes</dd>
+                        </dl>
+                        <dt>Film ID:</dt>
+                        <dd>b-5432</dd>
+                        </dl>
+                        <dl>
+                            <dt>Filename:</dt>
+                            <dd></dd>
+                        </dl>
+                        <dl>
+                            <dt>Sent/Physical Media:</dt>
+                            <dd></dd>
+                        </dl>
+                        <dl>
+                            <dt>QC Notes:</dt>
+                            <dd></dd>
+                        </dl>
+                        <dl>
+                            <dt>Filmmaker Contact:</dt>
+                            <dd></dd>
+                            <dt>Date Uploaded:</dt>
+                            <dd></dd>
+                        </dl>
+                    </td>
                 </tr>
             </tbody>
             <tfoot>
                 <tr>
+                    <td></td>
                     <td></td>
                     <td></td>
                     <td></td>
