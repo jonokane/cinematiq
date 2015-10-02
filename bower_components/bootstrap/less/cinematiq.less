@@ -64,10 +64,11 @@ pre {
 
 a:hover{
     color:#00ffbe;
-}
-
-a:hover{
     text-decoration: none !important;
+    transition:all .2s ease-out;
+}
+a{
+   transition:all .4s ease-in; 
 }
 
 //Tables
@@ -135,7 +136,7 @@ li.active a{
 }
 
  
-.cta-btn{
+.btn-cta{
     // display: block;
     border:1px solid #35436B;
     border-radius:4px;
@@ -143,6 +144,16 @@ li.active a{
     background: rgba(20, 20, 20, .7);
 }
 
+.btn.btn-cta:hover{
+    color:#00ffbe;
+}
+
+.h-thin{
+    font-weight:100;
+    border-bottom:1px solid #35436B;
+    padding-bottom: 3rem;
+    margin-bottom: 6rem;
+}
 
 .empty-msg{
     color:#8A8D94;
@@ -173,7 +184,13 @@ span.ss-icon.label-ico{
     top:4px
 }
 
+//forms
 
+.form-control{
+    background:#636363;
+    color:#97CFFF;
+    border-color:#35436B;
+}
 
 
 

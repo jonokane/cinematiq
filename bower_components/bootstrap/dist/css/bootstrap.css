@@ -6816,9 +6816,11 @@ pre {
 }
 a:hover {
   color: #00ffbe;
-}
-a:hover {
   text-decoration: none !important;
+  transition: all 0.2s ease-out;
+}
+a {
+  transition: all 0.4s ease-out;
 }
 .table-striped > tbody > tr:nth-of-type(odd) {
   background-color: #3D4354;
@@ -6924,11 +6926,20 @@ li.active a {
   color: #00ffbe;
   font-weight: 700;
 }
-.cta-btn {
+.btn-cta {
   border: 1px solid #35436B;
   border-radius: 4px;
   padding: 8px;
   background: rgba(20, 20, 20, 0.7);
+}
+.btn.btn-cta:hover {
+  color: #00ffbe;
+}
+.h-thin {
+  font-weight: 100;
+  border-bottom: 1px solid #35436B;
+  padding-bottom: 3rem;
+  margin-bottom: 6rem;
 }
 .empty-msg {
   color: #8A8D94;
@@ -6951,5 +6962,10 @@ span.ss-icon.label-ico {
   font-size: 20px;
   position: relative;
   top: 4px;
+}
+.form-control {
+  background: #636363;
+  color: #97CFFF;
+  border-color: #35436B;
 }
 /*# sourceMappingURL=bootstrap.css.map */
