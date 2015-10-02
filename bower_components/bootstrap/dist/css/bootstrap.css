@@ -6820,7 +6820,7 @@ a:hover {
   transition: all 0.2s ease-out;
 }
 a {
-  transition: all 0.4s ease-out;
+  transition: all 0.4s ease-in;
 }
 .table-striped > tbody > tr:nth-of-type(odd) {
   background-color: #3D4354;
@@ -6919,6 +6919,10 @@ a.navbar-brand.sub-brand {
 .nav > li > a.dropdown-toggle {
   border-bottom: none;
 }
+li.active.dropdown .dropdown-menu li a {
+  font-weight: 500;
+  color: #333;
+}
 .nav li a:hover {
   color: #020717;
 }
@@ -6947,6 +6951,41 @@ li.active a {
 .empty-msg .ss-icon {
   font-size: 80px;
 }
+.light-sep {
+  border-color: #2F2F2F;
+}
+.playlist-card {
+  width: 200px;
+  display: block;
+  float: left;
+  text-align: center;
+  background-color: #2F2F2F;
+  border: 1px solid #337ab7;
+  border-radius: 4px;
+  background: #000;
+  margin-right: 1rem;
+}
+.new-playlist-card {
+  width: 200px;
+  display: block;
+  float: left;
+  text-align: center;
+  background-color: #2F2F2F;
+  border: 1px solid #00ffbe;
+  border-radius: 4px;
+  background: #000;
+  margin-right: 1rem;
+}
+.venue-info dt {
+  float: left;
+  width: 40%;
+  text-align: right;
+  margin-right: 10px;
+}
+.venue-info dd {
+  float: left;
+  width: 50%;
+}
 .tbl-thumb {
   width: 60px;
 }
@@ -6967,5 +7006,8 @@ span.ss-icon.label-ico {
   background: #636363;
   color: #97CFFF;
   border-color: #35436B;
+}
+.nmt {
+  margin-top: 0;
 }
 /*# sourceMappingURL=bootstrap.css.map */
